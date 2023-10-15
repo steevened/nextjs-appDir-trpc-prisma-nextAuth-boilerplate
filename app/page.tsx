@@ -1,7 +1,10 @@
 const Home = () => {
   return (
     <div>
-      <p>Welcome to my website!</p>
+      <p>
+        NEXT JS APP DIRECTORY - TRPC - PRISMA ORM - TAILWIND CSS - SHADCN UI -
+        NEXT AUTH - NEXT THEMES
+      </p>
     </div>
   );
 };
